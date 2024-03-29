@@ -1,4 +1,4 @@
-# InformationCompetition
+# KnowledgeCompetition
 Quizzes in form application with C#
 
 ![Ekran Görüntüsü (32)](https://github.com/mhmdsrt/InformationCompetition/assets/164398109/d772d9c0-a481-4d57-b65e-65be8eddf48b)
